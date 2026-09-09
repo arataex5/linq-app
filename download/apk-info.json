@@ -1,8 +1,8 @@
 {
-  "available": false,
+  "available": true,
   "file": "linq.apk",
-  "size": 0,
-  "version": "",
-  "built": "",
-  "signed": ""
+  "size": 4859014,
+  "version": "1.2.0",
+  "built": "2026-09-09T16:26:49.944Z",
+  "signed": "debug"
 }
